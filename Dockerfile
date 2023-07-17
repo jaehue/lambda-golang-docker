@@ -1,5 +1,5 @@
 FROM public.ecr.aws/lambda/provided:al2 as build
-LABEL version="20230506"
+LABEL version="20230717"
 # install compiler
 RUN yum install -y golang
 RUN go env -w GOPROXY=direct
