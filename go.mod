@@ -35,6 +35,7 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/tidwall/gjson v1.14.2
 	github.com/tkuchiki/go-timezone v0.2.2
+	github.com/urfave/cli/v2 v2.25.7
 	golang.org/x/oauth2 v0.6.0
 	google.golang.org/api v0.114.0
 	gopkg.in/yaml.v3 v3.0.1
@@ -122,7 +123,6 @@ require (
 	github.com/satori/go.uuid v1.2.1-0.20181028125025-b2ce2384e17b // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
-	github.com/urfave/cli/v2 v2.25.7 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.1 // indirect
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
